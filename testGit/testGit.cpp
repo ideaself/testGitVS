@@ -7,6 +7,7 @@ int main()
 {
     //测试git
     //ces 
+    //修改后：解决方案资源管理器文件标题前会显示红色对号
     std::cout << "Hello World!\n";
 }
 
